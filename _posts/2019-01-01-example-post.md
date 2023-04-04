@@ -1,21 +1,21 @@
 ---
 layout: post
-title: A Example Post
+title: 必看的CV入门数据
 date: 2019-01-01 00:00:00 +0800
-category: tutorial
+category: Computer Vision
 thumbnail: /style/image/thumbnail.png
 icon: book
 ---
 
 
-* content
+* 书名册
 {:toc}
 
-## sub title
+# sub title
 
 page...
 
-## about thumbnail
+# about thumbnail
 
 add the thumbnail url
 
